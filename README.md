@@ -94,7 +94,7 @@ git pull
 ## 📧 Contact us
 
 - **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
-- **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
+- **Alexander Fred-Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
 - **Sumayah Rahman:** rahmans @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/sumayah-rahman-91bbb8100/))
 
 ## 📁 About the Bootcamp
