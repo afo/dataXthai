@@ -69,9 +69,9 @@ git pull
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
     <tr>
-      <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu"></th>
-      <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
-      <th style="width: 20%;"><img src="imgs/sumayah.jpg" alt="Sumayah Rahman"></th>
+      <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu" width=200px></th>
+      <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala" width=200px></th>
+      <th style="width: 20%;"><img src="imgs/sumayah.jpg" alt="Sumayah Rahman" width=200px></th>
     </tr>
   </thead>
   <tbody>
