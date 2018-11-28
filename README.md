@@ -42,7 +42,7 @@ ___
 ## 📝 Masterclass Schedule
 
 <p align='center'>
-   <img src="./imgs/sched.png" alt="download" width='700px'>
+   <img src="./imgs/sched.png" alt="download" width='900px'>
 </p>
 <br>
 
@@ -64,20 +64,30 @@ git pull
 
 ---
 
+## Instructors
 
-<h1 align="center">
-  <br>
-   <img src="./imgs/people1.png" alt="Data-X Instructors" width='550px'>
-  <br>
-</h1>
-<h1 align="center">
-   <img src="./imgs/people2.png" alt="Data-X Instructors" width='550px'>
-</h1>
-<h1 align="center">
-  <br>
-   <img src="./imgs/sumayah.jpeg" alt="Data-X Instructors" width='200px'>
-  <br>
-</h1>
+<table style="table-layout: fixed; font-size: 88%;">
+  <thead>
+    <tr>
+      <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu"></th>
+      <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
+      <th style="width: 20%;"><img src="imgs/sumayah.jpeg" alt="Sumayah Rahman"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.linkedin.com/in/sidhu/">Luke Kowalski</a></td>
+      <td><a href="https://www.linkedin.com/in/alexanderfo">Alexander Fred-Ojala</a></td>
+       <td><a href="https://www.linkedin.com/in/sumayah-rahman-91bbb8100/">Ken Singer</a></td>
+    </tr>
+    <tr>
+      <td>UC Berkeley Professor and Founding Director, <a href="https://scet.berkeley.edu/">SCET</a></td>
+      <td>Research Director, <a href="http://scet.berkeley.edu/data-lab">SCET, Data Lab</a></td>
+      <td>Ph.D. Candidate UC Berkeley</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
@@ -85,7 +95,7 @@ git pull
 
 - **Ikhlaq Sidhu:** sidhu @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/ikhlaq/))
 - **Alexander Fred Ojala:** afo @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/alexanderfo/))
-- **Alexander Fred Ojala:** rahmans @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/sumayah-rahman-91bbb8100/))
+- **Sumayah Rahman:** rahmans @ berkeley edu ([LinkedIn](https://www.linkedin.com/in/sumayah-rahman-91bbb8100/))
 
 ## 📁 About the Bootcamp
 
