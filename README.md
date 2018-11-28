@@ -71,7 +71,7 @@ git pull
     <tr>
       <th style="width: 20%;"><img src="imgs/ikhlaq.jpeg" alt="Ikhlaq Sidhu"></th>
       <th style="width: 20%;"><img src="imgs/alex.jpg" alt="Alexander Fred-Ojala"></th>
-      <th style="width: 20%;"><img src="imgs/sumayah.jpeg" alt="Sumayah Rahman"></th>
+      <th style="width: 20%;"><img src="imgs/sumayah.jpg" alt="Sumayah Rahman"></th>
     </tr>
   </thead>
   <tbody>
