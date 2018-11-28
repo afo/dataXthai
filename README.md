@@ -76,9 +76,9 @@ git pull
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.linkedin.com/in/sidhu/">Luke Kowalski</a></td>
+      <td><a href="https://www.linkedin.com/in/sidhu/">Ikhlaq Sidhu</a></td>
       <td><a href="https://www.linkedin.com/in/alexanderfo">Alexander Fred-Ojala</a></td>
-       <td><a href="https://www.linkedin.com/in/sumayah-rahman-91bbb8100/">Ken Singer</a></td>
+       <td><a href="https://www.linkedin.com/in/sumayah-rahman-91bbb8100/">Sumayah Rahman</a></td>
     </tr>
     <tr>
       <td>UC Berkeley Professor and Founding Director, <a href="https://scet.berkeley.edu/">SCET</a></td>
