@@ -17,7 +17,7 @@ This is the official Github repository for the Masterclass.
 
 ## 📚 Resources
 
-* ## [Install Instructions and Prep Material](https://github.com/afo/dataXkuwait/blob/master/install-instructions/setup-installation-masterclass.pdf)
+* ## [Install Instructions and Prep Material](00-install-instructions/setup-installation-masterclass.pdf)
 * ### [Data-X Official Website](https://data-x.blog/)
 * ##### [Data-X Network](https://data-x.blog/advisors/)
 * ##### [Data-X Resources](https://data-x.blog/resources/)
